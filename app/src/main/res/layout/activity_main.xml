@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="#FC0FA055"
+        app:titleMarginStart="10dp"
+        app:title="Bless Child"
+        android:elevation="5dp"
+        app:titleTextColor="#FCFCFC"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_margin="16dp"
+        android:layout_height="50dp"
+        android:hint="Search Free Photo"
+        android:textColorHint="#070707"
+        android:paddingLeft="8dp"
+        android:textColor="#0C0C0C"
+        android:background="@drawable/edit_text"
+        android:layout_centerInParent="true"
+        android:id="@+id/edit_search"
+        android:imeOptions="actionSearch"
+        android:inputType="text"
+        android:drawableRight="@drawable/ic_search_black_24dp"/>
+
+</RelativeLayout>

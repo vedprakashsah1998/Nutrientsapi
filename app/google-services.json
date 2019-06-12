@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "412466929931",
+    "firebase_url": "https://nutrientsapi.firebaseio.com",
+    "project_id": "nutrientsapi",
+    "storage_bucket": "nutrientsapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412466929931:android:e9fbd0567762822b",
+        "android_client_info": {
+          "package_name": "com.food.vpman.nutrientsapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412466929931-0nfgprr9krf9a36ed3uivklnde79adet.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.food.vpman.nutrientsapi",
+            "certificate_hash": "a3be50c033727c6925f9f8581a2584a562ef0059"
+          }
+        },
+        {
+          "client_id": "412466929931-8fgo63bns1d5umkhu8blnj6m5p1v2vkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVLz3iT2ilV97UInaiQ43A7T0BAHRJqVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412466929931-8fgo63bns1d5umkhu8blnj6m5p1v2vkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
